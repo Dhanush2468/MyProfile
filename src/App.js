@@ -16,7 +16,7 @@ function App() {
       <Skills />
       <Projects />
       <Contact />
-      <Footer /></br></br></br></br></br>
+      <Footer />
     
             <div style="width: 200px; height: 30px;">
   <a href="https://shrinkme.io/ref/110036665103617792226">
