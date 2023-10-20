@@ -63,6 +63,10 @@ export const Contact = () => {
                   </form>
                 </div>
               }
+
+<a href="https://shrinkme.io/ref/110036665103617792226"><img src="https://shrinkme.io/banners/ref/300x600-2.png" title="Make short links and earn the biggest money" /></a>
+
+        
             </TrackVisibility>
           </Col>
         </Row>
