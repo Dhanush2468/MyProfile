@@ -17,6 +17,12 @@ function App() {
       <Projects />
       <Contact />
       <Footer />
+    
+              <div>
+<a href="https://shrinkme.io/ref/110036665103617792226"><img src="https://shrinkme.io/banners/ref/320x50.png" title="Make short links and earn the biggest money" /></a>
+
+        
+                </div>
       
     </div>
   );
